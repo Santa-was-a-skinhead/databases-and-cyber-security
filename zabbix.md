@@ -66,10 +66,11 @@ sudo systemctl restart zabbix-agent2
 
 ```
 
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота 2](ссылка на скриншот 2)`
 
-
+![хосты](https://github.com/Santa-was-a-skinhead/prometheus-hw/blob/main/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-01-31%2019-47-28.png)
+![лог](https://github.com/Santa-was-a-skinhead/prometheus-hw/blob/main/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-01-31%2019-56-49.png)
+![Latest data zb1](https://github.com/Santa-was-a-skinhead/prometheus-hw/blob/main/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-01-31%2020-02-15.png)
+![Latest data zb2](https://github.com/Santa-was-a-skinhead/prometheus-hw/blob/main/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-01-31%2020-02-34.png)
 ---
 
 ### Задание 3
