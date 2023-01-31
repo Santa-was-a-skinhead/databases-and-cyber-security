@@ -1,4 +1,4 @@
-# Домашнее задание к занятию "`Система мониторинга Zabbix`" - `Боровский Юрий`
+# Домашнее задание к занятию "`Система мониторинга Zabbix (ч.2)`" - `Боровский Юрий`
 
 
 ### Инструкция по выполнению домашнего задания
@@ -25,72 +25,22 @@
 ### Задание 1
 
 
-```
-wget https://repo.zabbix.com/zabbix/6.0/ubuntu/pool/main/z/zabbix-release/zabbix-release_6.0-4%2Bubuntu22.04_all.deb
-sudo dpkg -i zabbix-release_6.0-4+ubuntu22.04_all.deb
-sudo apt update 
-sudo apt install zabbix-server-pgsql zabbix-frontend-php php8.1-pgsql zabbix-nginx-conf zabbix-sql-scripts zabbix-agent
-sudo -u postgres createuser --pwprompt zabbix
-sudo -u postgres createdb -O zabbix zabbix 
-zcat /usr/share/zabbix-sql-scripts/postgresql/server.sql.gz | sudo -u zabbix psql zabbix
-DBPassword=********
-sudo nano /etc/zabbix/nginx.conf (поставил на прослушку порт 8080, задал имя server_name)
-sudo systemctl restart zabbix-server zabbix-agent nginx php8.1-fpm
 
-
-
-
-
-
-```
-
-
-![Страница логина](https://github.com/Santa-was-a-skinhead/prometheus-hw/blob/main/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-01-31%2019-19-23.png)
+![Задание 1](ссылка на скриншот 1)
 
 
 ---
 
 ### Задание 2
 
-
-
-```
-sudo wget https://repo.zabbix.com/zabbix/6.0/ubuntu/pool/main/z/zabbix-release/zabbix-release_6.0-4%2Bubuntu22.04_all.deb
-sudo dpkg -i zabbix-release_6.0-4+ubuntu22.04_all.deb
-sudo apt update 
-sudo apt install zabbix-agent2 zabbix-agent2-plugin-*
-sudo nano /etc/zabbix/zabbix_agent2.conf (server=*.*.*.*, #SerevrActive=127.0.0.1)
-sudo systemctl restart zabbix-agent2
-
-
-
 ```
 
+![Название скриншота 2](ссылка на скриншот 2)`
 
-![хосты](https://github.com/Santa-was-a-skinhead/prometheus-hw/blob/main/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-01-31%2019-47-28.png)
-![лог](https://github.com/Santa-was-a-skinhead/prometheus-hw/blob/main/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-01-31%2019-56-49.png)
-![Latest data zb1](https://github.com/Santa-was-a-skinhead/prometheus-hw/blob/main/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-01-31%2020-02-15.png)
-![Latest data zb2](https://github.com/Santa-was-a-skinhead/prometheus-hw/blob/main/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-01-31%2020-02-34.png)
+
 ---
 
 ### Задание 3
-
-`Приведите ответ в свободной форме........`
-
-1. `Заполните здесь этапы выполнения, если требуется ....`
-2. `Заполните здесь этапы выполнения, если требуется ....`
-3. `Заполните здесь этапы выполнения, если требуется ....`
-4. `Заполните здесь этапы выполнения, если требуется ....`
-5. `Заполните здесь этапы выполнения, если требуется ....`
-6. 
-
-```
-Поле для вставки кода...
-....
-....
-....
-....
-```
 
 `При необходимости прикрепитe сюда скриншоты
 ![Название скриншота](ссылка на скриншот)`
