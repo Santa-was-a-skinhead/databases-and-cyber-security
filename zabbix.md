@@ -44,8 +44,8 @@ sudo systemctl restart zabbix-server zabbix-agent nginx php8.1-fpm
 
 ```
 
-`При необходимости прикрепитe сюда скриншоты
-![Страница логина](https://github.com/Santa-was-a-skinhead/prometheus-hw/blob/main/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-01-31%2019-19-23.png)`
+
+![Страница логина](https://github.com/Santa-was-a-skinhead/prometheus-hw/blob/main/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-01-31%2019-19-23.png)
 
 
 ---
