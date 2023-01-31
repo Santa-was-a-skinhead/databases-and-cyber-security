@@ -42,7 +42,7 @@
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![Название скриншота 1](ссылка на скриншот 1)`
+![systemclt status prometheus](https://github.com/Santa-was-a-skinhead/prometheus-hw/blob/main/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-01-31%2014-50-51.png)`
 
 
 ---
@@ -67,7 +67,7 @@
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![Название скриншота 2](ссылка на скриншот 2)`
+![systemclt status node-exporter](https://github.com/Santa-was-a-skinhead/prometheus-hw/blob/main/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-01-31%2014-52-59.png)`
 
 
 ---
@@ -92,7 +92,7 @@
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![Название скриншота](ссылка на скриншот)`
+![node-exroter configuration](https://github.com/Santa-was-a-skinhead/prometheus-hw/blob/main/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-01-31%2014-54-16.png)`
 
 ### Задание 4
 
@@ -114,7 +114,7 @@
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![Название скриншота](ссылка на скриншот)`
+![node-exroter targets](https://github.com/Santa-was-a-skinhead/prometheus-hw/blob/main/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-01-31%2014-53-54.png)`
 
 ---
 ## Дополнительные задания (со звездочкой*)
