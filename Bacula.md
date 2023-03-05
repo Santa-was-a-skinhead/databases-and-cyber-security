@@ -16,14 +16,14 @@
 
 ### Задание 2
 ![bacula-dir](https://github.com/Santa-was-a-skinhead/prometheus-hw/blob/main/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-03-05%2016-36-11.png)
-![bacula-sd](https://github.com/Santa-was-a-skinhead/prometheus-hw/blob/main/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-03-05%2016-36-11.png](https://github.com/Santa-was-a-skinhead/prometheus-hw/blob/main/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-03-05%2016-39-47.png)
+![bacula-sd](https://github.com/Santa-was-a-skinhead/prometheus-hw/blob/main/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-03-05%2016-39-47.png)
 ![bacula-fd](https://github.com/Santa-was-a-skinhead/prometheus-hw/blob/main/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-03-05%2016-55-36.png)
 ---
 
 ### Задание 3
 
 ![srv](https://github.com/Santa-was-a-skinhead/prometheus-hw/blob/main/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-03-05%2017-37-44.png)
-![client]([https://github.com/Santa-was-a-skinhead/prometheus-hw/blob/main/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-03-05%2017-37-44.png](https://github.com/Santa-was-a-skinhead/prometheus-hw/blob/main/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-03-05%2017-38-55.png))
+![client](https://github.com/Santa-was-a-skinhead/prometheus-hw/blob/main/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-03-05%2017-38-55.png)
 ### Задание 4
 
 `Приведите ответ в свободной форме........`
